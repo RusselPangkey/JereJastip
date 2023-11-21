@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559390701686",
+    "project_id": "skripsijere",
+    "storage_bucket": "skripsijere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559390701686:android:ce71db2971fd408c0bc757",
+        "android_client_info": {
+          "package_name": "com.example.jastip_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSiPbJsusdQsw1jou1X3jtc9buNPOqUTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
